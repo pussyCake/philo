@@ -1,6 +1,6 @@
 # philo
 
-21 project about inter-process communication. A program that can monitor multiple instances of itself, either processes or threads, using semaphores or mutexes.
+21 project about inter-process communication. A program that can monitor multiple instances of itself, either processes or threads, using mutexes.
 
 ### Concept
 
